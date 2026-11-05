@@ -1,0 +1,6 @@
+{
+  "name": "PhaseForm Studio & MIDI Deck // anyone-Hub LLC",
+  "description": "Flagship C++23 Desktop DAW Workstation and Standalone Android Synthesizer & 120Hz MPE Companion Controller, fused via zero-jitter 64-bit MIDI 2.0 UMP & DirectLink telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
